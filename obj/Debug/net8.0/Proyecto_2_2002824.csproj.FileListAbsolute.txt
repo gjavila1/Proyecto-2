@@ -1,0 +1,14 @@
+C:\Users\gerar\source\repos\Proyecto_2_2002824\obj\Debug\net8.0\Proyecto_2_2002824.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerar\source\repos\Proyecto_2_2002824\obj\Debug\net8.0\Proyecto_2_2002824.AssemblyInfoInputs.cache
+C:\Users\gerar\source\repos\Proyecto_2_2002824\obj\Debug\net8.0\Proyecto_2_2002824.AssemblyInfo.cs
+C:\Users\gerar\source\repos\Proyecto_2_2002824\obj\Debug\net8.0\Proyecto_2_2002824.csproj.CoreCompileInputs.cache
+C:\Users\gerar\source\repos\Proyecto_2_2002824\bin\Debug\net8.0\Proyecto_2_2002824.exe
+C:\Users\gerar\source\repos\Proyecto_2_2002824\bin\Debug\net8.0\Proyecto_2_2002824.deps.json
+C:\Users\gerar\source\repos\Proyecto_2_2002824\bin\Debug\net8.0\Proyecto_2_2002824.runtimeconfig.json
+C:\Users\gerar\source\repos\Proyecto_2_2002824\bin\Debug\net8.0\Proyecto_2_2002824.dll
+C:\Users\gerar\source\repos\Proyecto_2_2002824\bin\Debug\net8.0\Proyecto_2_2002824.pdb
+C:\Users\gerar\source\repos\Proyecto_2_2002824\obj\Debug\net8.0\Proyecto_2_2002824.dll
+C:\Users\gerar\source\repos\Proyecto_2_2002824\obj\Debug\net8.0\refint\Proyecto_2_2002824.dll
+C:\Users\gerar\source\repos\Proyecto_2_2002824\obj\Debug\net8.0\Proyecto_2_2002824.pdb
+C:\Users\gerar\source\repos\Proyecto_2_2002824\obj\Debug\net8.0\Proyecto_2_2002824.genruntimeconfig.cache
+C:\Users\gerar\source\repos\Proyecto_2_2002824\obj\Debug\net8.0\ref\Proyecto_2_2002824.dll
